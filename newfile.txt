@@ -1,0 +1,12 @@
+
+A stack is a particular data type or collection in which the main operations are the addition of an item, known as push, and removal of it, known as pop. Stacks implement a LIFO (Last In First Out) structure which means that the last element added to the structure must be the first one to be removed. It will have the following initial code: 
+
+
+A stack is a particular data type or collection in which the main operations are the addition of an item, known as push, and removal of it, known as pop. Stacks implement a LIFO (Last In First Out) structure which means that the last element added to the structure must be the first one to be removed. It will have the following initial code: 
+
+
+A stack is a particular data type or collection in which the main operations are the addition of an item, known as push, and removal of it, known as pop. Stacks implement a LIFO (Last In First Out) structure which means that the last element added to the structure must be the first one to be removed. It will have the following initial code: 
+
+
+A stack is a particular data type or collection in which the main operations are the addition of an item, known as push, and removal of it, known as pop. Stacks implement a LIFO (Last In First Out) structure which means that the last element added to the structure must be the first one to be removed. It will have the following initial code: 
+
