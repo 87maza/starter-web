@@ -22,3 +22,22 @@ According to Wikipedia:
 
 "In computer science, a data structure is a particular way of storing and organizing data in a computer so that it can be used efficiently."
 In this article, I will be using some structures which, personally, look like the most basic ones. I know that, through Arrays you can have a greater performance, but the point of this exercise is to practice the understanding of code.
+
+
+
+
+
+A stack is a particular data type or collection in which the main operations are the addition of an item, known as push, and removal of it, known as pop. Stacks implement a LIFO (Last In First Out) structure which means that the last element added to the structure must be the first one to be removed. It will have the following initial code: 
+
+
+A stack is a particular data type or collection in which the main operations are the addition of an item, known as push, and removal of it, known as pop. Stacks implement a LIFO (Last In First Out) structure which means that the last element added to the structure must be the first one to be removed. It will have the following initial code: 
+
+
+A stack is a particular data type or collection in which the main operations are the addition of an item, known as push, and removal of it, known as pop. Stacks implement a LIFO (Last In First Out) structure which means that the last element added to the structure must be the first one to be removed. It will have the following initial code: 
+
+
+A stack is a particular data type or collection in which the main operations are the addition of an item, known as push, and removal of it, known as pop. Stacks implement a LIFO (Last In First Out) structure which means that the last element added to the structure must be the first one to be removed. It will have the following initial code: 
+
+
+A stack is a particular data type or collection in which the main operations are the addition of an item, known as push, and removal of it, known as pop. Stacks implement a LIFO (Last In First Out) structure which means that the last element added to the structure must be the first one to be removed. It will have the following initial code: 
+
